@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2017/11/19 08:31:11.439,=C:\pruebas\unigui_ec2grado\ServerModule.pas</Transaction>
+    <Transaction>2017/11/19 08:31:11.477,=C:\pruebas\unigui_ec2grado\MainModule.pas</Transaction>
+    <Transaction>2017/11/19 08:31:11.645,=C:\pruebas\unigui_ec2grado\Main.pas</Transaction>
+    <Transaction>2017/11/19 08:50:15.551,=C:\pruebas\unigui_ec2grado\Unit1.pas</Transaction>
+    <Transaction>2017/11/19 08:50:23.207,C:\pruebas\unigui_ec2grado\Ec2GradoSol.pas=C:\pruebas\unigui_ec2grado\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
